@@ -1,3 +1,2 @@
-# Laravel Spark
+# AmazingApp's Laravel Spark
 
-https://spark.laravel.com
