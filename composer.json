@@ -1,12 +1,12 @@
 {
-    "name": "laravel/spark-aurelius",
-    "description": "Laravel Spark provides scaffolding for Laravel SaaS applications.",
+    "name": "amazingapp/spark",
+    "description": "Amazingapp Laravel Spark.",
     "keywords": ["laravel", "stripe", "billing", "scaffolding", "saas"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Taylor Otwell",
-            "email": "taylorotwell@gmail.com"
+            "name": "Kabir Maharjan",
+            "email": "kbir.mhrjn@gmail.com"
         }
     ],
     "require": {
